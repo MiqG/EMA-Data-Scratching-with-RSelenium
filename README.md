@@ -9,7 +9,7 @@ Usually, most of the countries in the world accept NDAs approved in one of the a
 Therefore, improving data accessibility to these agencies may facilitate better planning of forthcoming NDAs.
 The EMA's webpage stores a large amount of publicly available information that is only accessible through navigation but not for unbiased exploration.
 
-Here, I developed a small library based on the package `RSelenium` to scrap and explore the information published for each drug in the EMA.
+Here, I developed a small library called `EMA_webScrapping` based on the package `RSelenium` to scrap and explore the information published for each drug in the EMA.
 
 ### Index:
 0. Required packages and tailored functions

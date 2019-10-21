@@ -87,7 +87,7 @@ getDrugInfo = function(drug.webs){
     
 }
 
-processTable(drugsDB) = function(){
+processTable = function(drugsDB){
     
       #  Define variables:
       DB <- drugsDB[[2]] #retrieve DB variable containing all the information for each drug
