@@ -12,8 +12,15 @@ The EMA's webpage stores a large amount of publicly available information that i
 Here, I developed a small library called `EMA_webScrapping` based on the package `RSelenium` to scrap and explore the information published for each drug in the EMA.
 
 ### Index:
-0. Required packages and tailored functions
-1. Set Initial parameters
-2. Download information from each drug
-3. Save information
-4. Exploratory Data Analysis
+- Web Scrapping
+	0. Required packages and tailored functions
+	1. Set Initial parameters
+	2. Download information from each drug
+	3. Save information
+	4. Exploratory Data Analysis
+- Exploratory Data Analysis
+	- Therapeutic Areas
+	- Generics
+	- Orphan Drugs
+	- Countries
+	- Companies strategies for MA approval
